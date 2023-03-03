@@ -1,7 +1,6 @@
 # orbitron-bot🤖
 
-# Live demo
-https://orbitron.vercel.app/
+# [Live demo](https://orbitron.vercel.app/)
 # OpenAI Chat Bot Clone
  
 
