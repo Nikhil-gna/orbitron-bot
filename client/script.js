@@ -83,7 +83,7 @@ const handleSubmit = async(e) => {
 
     //fetch data from server --> bot rresponse
 
-    const response = await fetch('https://orbitron.onrender.com/', {
+    const response = await fetch('https://orbitron.onrender.com', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
